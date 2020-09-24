@@ -17,14 +17,14 @@ dont look at the images till the end
 
 ## Domain Choices
 
-DoorDash:
+### DoorDash:
 - Dasher
 - Customer
 - Restaurant
 - Order
 - Review
 
-TicketMaster: 
+### TicketMaster: 
 - Artist
 - Venue
 - Event
@@ -32,7 +32,7 @@ TicketMaster:
 - Ticket
 
 
-Venmo: 
+### Venmo: 
 - User
 - Friend
 - Transaction
